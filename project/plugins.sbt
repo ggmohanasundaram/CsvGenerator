@@ -1,0 +1,7 @@
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.5")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.5.1")
+addSbtPlugin("com.github.gseitz" % "sbt-release" % "1.0.7")
+addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "1.0.0")
+addSbtPlugin("org.xerial.sbt" % "sbt-pack" % "0.9.3")
+addSbtPlugin("org.scalaxb" % "sbt-scalaxb" % "1.5.2")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.9.0")

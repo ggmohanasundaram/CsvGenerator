@@ -1,0 +1,4 @@
+Error
+"Error, Birth date 1988/11/28 not an String Date with pattern: yyyy-MM-dd"
+"Error, Birth date 31-01-1988 not an String Date with pattern: yyyy-MM-dd"
+"Error, Weight  sss not a String Decimal"
